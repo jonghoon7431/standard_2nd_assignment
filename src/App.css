@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.layout {
+  min-width: 800px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+h1 {
+  font-size: 2rem;
+  font-weight: bold;
+}
+.todo_item {
+  border: 1px solid black;
+  padding: 1rem;
+}
