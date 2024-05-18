@@ -1,8 +1,8 @@
-# React + Vite
+# 스탠다드반 2nd 과제
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### 요구 사항
+* 입문개인과제와 동일한 형태의 TodoList를 처음부터 아무것도 참조하지 않고 스스로의 힘으로 진행합니다.
+* TodoList의 기본적인 동작은 기존 개인과제와 동일하게 구현해주세요. <br>
+더불어, 해설강의에서 보신 대로 컴포넌트를 기능/역할 별로 쪼개어 하나의 파일에서 하나의 컴포넌트를 관리할 수 있게 해주세요.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  
